@@ -26,4 +26,4 @@ requires:
 resources:
   homepage: http://wiki.github.com/toddr/Crypt-OpenSSL-RSA
   license: http://dev.perl.org/licenses/
-version: 0.26_01
+version: 0.27
